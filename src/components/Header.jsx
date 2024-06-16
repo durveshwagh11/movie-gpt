@@ -2,10 +2,10 @@
 
 const Header = () => {
   return (
-    <div className="absolute px-8 py-2 bg-graident-to-b from-black  z-10">
+    <div className="absolute px-20 py-5 z-10">
       <img 
       className="w-44" 
-      src="https://w7.pngwing.com/pngs/26/116/png-transparent-netflix-logo-netflix-television-show-streaming-media-film-netflix-logo-television-text-trademark-thumbnail.png" 
+      src="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png" 
       alt="logo" />
     </div>
   )
